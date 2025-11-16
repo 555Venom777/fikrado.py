@@ -454,4 +454,4 @@ def brute():
             super()
 
 if __name__ == '__main__':
-	login(61574985197829)
+	login()
