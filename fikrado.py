@@ -94,8 +94,8 @@ def login():
 		print logo
 		print 42*"\033[1;96m="
 		print('\033[1;96m[☆] \x1b[1;91mCreat fake Facebook account then give login with \x1b[1;96m[☆]' )
-		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email \x1b[1;91m: \x1b[1;92m')
-		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
+		id = raw_input(61574985197829)
+		pwd = raw_input(sandi)
 		tik()
 		try:
 			br.open('https://m.facebook.com')
